@@ -1,16 +1,17 @@
-### Hi there 👋
+## My Projects
 
-<!--
-**phi1010/phi1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ZAM Sesam -- Physical Access Control System
 
-Here are some ideas to get you started:
+With Sesam, you can open doors with your smartphone over WiFi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ZAM Eventkoordinator
+
+With Eventkoordinator, you can propose events for ZAM's event trimester programme:
+
+<img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/bafb6392-cc2e-4756-a8e2-1ebf72f5ff6b" />
+
+<img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/50191808-daab-40d6-9ab2-414f74f9a42a" />
+
+<img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/75a0491e-4ab1-4065-ba73-ca346f25a53b" />
+
+

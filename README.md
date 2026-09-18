@@ -1,3 +1,7 @@
+# Hello!
+
+Find me on LinkedIn: https://www.linkedin.com/in/phillip-kuhrt/
+
 ## My Projects
 
 ### ZAM Sesam -- Physical Access Control System
@@ -14,4 +18,6 @@ With Eventkoordinator, you can propose events for ZAM's event trimester programm
 
 <img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/75a0491e-4ab1-4065-ba73-ca346f25a53b" />
 
+### Co-Development of CanaryMod Server (successor of hMod server) for Minecraft
 
+around 2012

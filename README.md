@@ -18,6 +18,19 @@ With Eventkoordinator, you can propose events for ZAM's event trimester programm
 
 <img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/75a0491e-4ab1-4065-ba73-ca346f25a53b" />
 
+### Django-OPA-Permissions
+
+Finegranular policy-controlled permissions for Django that can be changed at runtime by an authorized user.
+
+<img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/a39d7005-a6e0-4eca-be03-1dc62359419a" />
+
+<img width="1324" height="318" alt="image" src="https://github.com/user-attachments/assets/67e683f4-a1e6-4dcb-9be3-266c3e799ba4" />
+
+<img width="1309" height="459" alt="image" src="https://github.com/user-attachments/assets/62104c10-7448-4c9c-b24a-e994180bc165" />
+
+
+
+
 ### Co-Development of CanaryMod Server (successor of hMod server) for Minecraft
 
 around 2012

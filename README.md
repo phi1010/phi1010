@@ -67,4 +67,4 @@ Finegranular policy-controlled permissions for Django that can be changed at run
 
 ### [Co-Development of CanaryMod Server (successor of hMod server) for Minecraft](https://github.com/FallenMoonNetwork/CanaryMod)
 
-around 2012, when we were using Dropbox instead of Github
+around 2010, when we were using Dropbox instead of Github

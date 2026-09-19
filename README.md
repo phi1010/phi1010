@@ -4,11 +4,19 @@ Find me on LinkedIn: https://www.linkedin.com/in/phillip-kuhrt/
 
 ## My Projects
 
-### ZAM Sesam -- Physical Access Control System
+
+
+### [ZAM Sesam -- Physical Access Control System](https://github.com/zam-haus/door_commander)
 
 With Sesam, you can open doors with your smartphone over WiFi.
 
-### ZAM Eventkoordinator
+
+
+---- 
+
+
+
+### [ZAM Eventkoordinator](https://github.com/phi1010/eventkoordinator)
 
 With Eventkoordinator, you can propose events for ZAM's event trimester programme:
 
@@ -18,7 +26,12 @@ With Eventkoordinator, you can propose events for ZAM's event trimester programm
 
 <img width="1609" height="1128" alt="image" src="https://github.com/user-attachments/assets/75a0491e-4ab1-4065-ba73-ca346f25a53b" />
 
-### Django-OPA-Permissions
+
+
+---- 
+
+
+### [Django-OPA-Permissions](https://github.com/phi1010/django-opa-permissions)
 
 Finegranular policy-controlled permissions for Django that can be changed at runtime by an authorized user.
 
@@ -36,9 +49,22 @@ Finegranular policy-controlled permissions for Django that can be changed at run
 
 <img width="1309" height="459" alt="image" src="https://github.com/user-attachments/assets/62104c10-7448-4c9c-b24a-e994180bc165" />
 
+---- 
 
 
 
-### Co-Development of CanaryMod Server (successor of hMod server) for Minecraft
+### [Keycloak Extension for django-pyoidc](https://github.com/phi1010/django-pyoidc-keycloak-extensions)
 
-around 2012
+* Full reconcilation of all objects against Keycloak via the Keycloak Admin API
+* Incremental update of objects reported updated by the Keycloak events APIs (user events and admin events) 
+* Import all users from Keycloak (optionally)
+* Delete resp. anonymize users deleted from Keycloak (depending on the PROTECT vs CASCADE/SET_NONE property of DB relationships)
+
+
+---- 
+
+
+
+### [Co-Development of CanaryMod Server (successor of hMod server) for Minecraft](https://github.com/FallenMoonNetwork/CanaryMod)
+
+around 2012, when we were using Dropbox instead of Github
